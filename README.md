@@ -2,9 +2,9 @@
 
 # 👋 Hey, ik ben Lito!
 
-### 🚀 Full-Stack Developer | Founder @ Lito's Lab
+### 🤖 AI Automation Specialist | Founder @ Lito's Lab
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Van+idee+naar+live+website+in+2+dagen;Next.js+%7C+React+%7C+TypeScript;%E2%82%AC200+websites+zonder+gedoe" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Slimmer+werken+met+AI-automatisering;Email+%7C+Facturering+%7C+Klantcontact;Uren+per+week+besparen+voor+MKB" alt="Typing SVG" />
 
 </div>
 
@@ -22,12 +22,19 @@
 
 ## 💼 Wat ik doe
 
-Ik help ondernemers met een **professionele online aanwezigheid** zonder de hoge kosten van bureaus.
+**Lito's Lab** - Specialist in AI-automatisering voor Nederlands MKB
 
-- 🌐 Custom websites gebouwd met **Next.js** (geen templates!)
-- ⚡ Optimalisatie voor snelheid en conversie
-- 🎯 Focus op resultaat, niet op buzzwords
-- 🤝 Transparant en eerlijk - jouw succes = mijn succes
+### 🤖 Core Business: AI Automatisering
+- 📧 **Email automatisering** - Slimme workflows voor klantcommunicatie
+- 🧾 **Factuurverwerking met AI** - Automatische verwerking en boekhouding
+- 💬 **Klantcommunicatie bots** - 24/7 support zonder extra personeel
+- ⚙️ **Workflow automatisering** - Handmatige taken automatisch laten draaien
+- 📊 **Rapportages & dashboards** - Real-time inzicht in je processen
+
+### 🌐 Side Project: Websites voor Starters
+- 💻 **€200 websites** voor startende ondernemers (Black Friday actie)
+- ⚡ Live in 2 dagen, gebouwd met Next.js
+- 🎯 Modern design, mobile-first, conversie-gericht
 
 ---
 
@@ -60,10 +67,10 @@ Ik help ondernemers met een **professionele online aanwezigheid** zonder de hoge
 
 ## 🎯 Huidige Focus
 
+- 🤖 **AI-automatisering** voor MKB - tijd besparen zonder extra personeel
+- 📧 Slimme workflows voor email, facturering en klantcontact
 - 🚀 Portfolio opbouwen met tevreden klanten
-- 💡 Experimenten met moderne web technologieën
-- 📈 Conversie-optimalisatie en performance
-- 🎨 Pixel-perfect designs met WOW-factor
+- 💡 Experimenten met moderne AI en web technologieën
 
 ---
 
@@ -81,11 +88,12 @@ Ik help ondernemers met een **professionele online aanwezigheid** zonder de hoge
 
 ## ⚡ Fun Facts
 
-- 🎯 Ik bouw alles **from scratch** - geen Wix, geen Fiverr-troep
+- 🤖 **Core business:** AI-automatisering voor MKB - uren per week besparen
+- 📧 Specialist in email workflows, factuurverwerking en klantcommunicatie bots
+- 🌐 **Side project:** €200 websites voor starters (Black Friday actie)
 - ⏱️ Snelheidsrecord: Website live in **36 uur**
 - 🎨 Obsessed met **smooth animations** en **glassmorphism**
 - 🤝 100% tevredenheidsgarantie op al mijn werk
-- 🔥 Black Friday deal: **€200** voor een complete website!
 
 ---
 
