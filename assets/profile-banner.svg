@@ -16,12 +16,13 @@
   <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
   <circle cx="1055" cy="50" r="130" fill="#10b981" opacity="0.08"/>
   <circle cx="110" cy="218" r="95" fill="#22c55e" opacity="0.07"/>
-  <path d="M96 74h1008" stroke="url(#line)" stroke-width="2"/>
-  <path d="M96 188h1008" stroke="url(#line)" stroke-width="2" opacity="0.55"/>
-  <text x="96" y="123" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">
-    Lokale websites die duidelijkheid, vertrouwen en vindbaarheid combineren
+  <path d="M96 64h1008" stroke="url(#line)" stroke-width="2"/>
+  <path d="M96 208h1008" stroke="url(#line)" stroke-width="2" opacity="0.55"/>
+  <text fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">
+    <tspan x="96" y="108">Lokale websites die duidelijkheid,</tspan>
+    <tspan x="96" y="148">vertrouwen en vindbaarheid combineren</tspan>
   </text>
-  <text x="96" y="162" fill="#bbf7d0" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">
+  <text x="96" y="186" fill="#bbf7d0" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">
     Voor ondernemers die online beter gevonden en sneller begrepen willen worden
   </text>
 </svg>
