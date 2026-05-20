@@ -1,3 +1,5 @@
+![Lokale websites die duidelijkheid, vertrouwen en vindbaarheid combineren](./assets/profile-banner.svg)
+
 <div align="center">
 
 # Hey, ik ben Lito
@@ -86,9 +88,14 @@ Een goede match heeft vaak goede reviews, een betrouwbare winkel en duidelijke d
 
 ---
 
-## Projectfocus
+## Huidige Focus
 
-Ik werk aan websites voor lokale ondernemers waarbij duidelijkheid belangrijker is dan marketingpraat. Denk aan snelle locatiekeuze, overzichtelijke diensten, mobiel gebruik, lokale SEO en technische oplevering die netjes staat.
+Ik werk aan websites voor lokale ondernemers waarbij duidelijkheid belangrijker is dan marketingpraat.
+
+- Snelle locatiekeuze en duidelijke contactroutes.
+- Overzichtelijke diensten, openingstijden en klantinformatie.
+- Mobiel gebruik en lokale vindbaarheid vanaf de basis.
+- Praktische technologie zonder onnodige complexiteit.
 
 ---
 
@@ -103,15 +110,6 @@ Ik werk aan websites voor lokale ondernemers waarbij duidelijkheid belangrijker 
 
 ---
 
-## Huidige Focus
-
-- Lokale websites bouwen voor Nederlandse ondernemers.
-- Websites duidelijker, sneller en mobielvriendelijker maken.
-- Lokale vindbaarheid meenemen vanaf de basis.
-- Praktische technologie gebruiken zonder onnodige complexiteit.
-
----
-
 ## Contact
 
 <div align="center">
@@ -120,7 +118,5 @@ Ik werk aan websites voor lokale ondernemers waarbij duidelijkheid belangrijker 
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/31624329310)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lito@litoslab.nl)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Lito073&color=111827&style=for-the-badge)
 
 </div>
