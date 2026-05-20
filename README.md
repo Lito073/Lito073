@@ -1,4 +1,4 @@
-![Lokale websites die duidelijkheid, vertrouwen en vindbaarheid combineren](./assets/profile-banner.svg)
+![Lokale websites die duidelijkheid, vertrouwen en vindbaarheid combineren](./assets/profile-banner-v2.svg)
 
 <div align="center">
 
