@@ -40,6 +40,19 @@ Voor lokale winkels draait dat vooral om duidelijkheid:
 
 ---
 
+## Werk In De Praktijk
+
+Een paar websites waar ik aan heb gewerkt. De focus ligt steeds op duidelijke informatie, mobiel gebruik, lokale vindbaarheid en snel contact opnemen.
+
+| Project | Voor wie | Focus |
+| --- | --- | --- |
+| [Spierings Techniek](https://spierings-techniek.nl/) | Lokale dak- en zinkwerkspecialist in Hedel | Dienstenstructuur, gratis inspectie, reviews, spoedservice en direct contact. |
+| [Wioletta Jaros Schoonmaakbedrijf](https://wiolettajaros.nl/) | Schoonmaakbedrijf voor zakelijke klanten in Altena en omgeving | B2B-vertrouwen, opdrachtgevers, dienstenpagina's en offerte-aanvraag. |
+| [Lito's Lab](https://litoslab.nl/) | Mijn eigen site | Wordt aangepast naar mijn nieuwe focus op lokale websites en vindbaarheid. |
+| [Schoenmakerij Donders](https://www.schoenmakerijdonders.nl/) | Lokale schoenmakerij | In ontwikkeling, nog niet live. |
+
+---
+
 ## Voor Wie
 
 Ik richt me op lokale ondernemers met een fysieke locatie, duidelijke diensten en een online presentatie die beter kan.
